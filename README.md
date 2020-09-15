@@ -1,4 +1,4 @@
-# Health Bot Container
+# Health Bot Container -  Health aid Bot
 
 A simple web page that allows users to communicate with the [Microsoft Healthcare Bot service](https://www.microsoft.com/en-us/research/project/health-bot/) through a WebChat.
 
